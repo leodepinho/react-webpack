@@ -2,10 +2,10 @@
 
 import React from 'react'
 
-var createReactClass = require('create-react-class');
-var Title = createReactClass({
+const createReactClass = require('create-react-class');
+const Title = createReactClass({
     render: function() {
-        return <h1>Titulo</h1>
+        return <h1>Titulo 2</h1>
     }
 });
 
